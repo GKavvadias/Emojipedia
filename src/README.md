@@ -1,0 +1,1 @@
+An application that shows emoji's icon, title and description.
